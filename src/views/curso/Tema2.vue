@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .row.mb-5
-      .col-lg-6.order-lg-2.bg-color-9
+      .col-lg-6.order-2.bg-color-9
         .titulo-figura.mb-4
           h5 Figura 1.
           span Prospectiva como gestión del cambio y clave de innovación
@@ -14,7 +14,7 @@
                 img(src="@/assets/curso/tema2/2.svg", data-aos="zoom-in")
         figcaption.mt-2.text-center.mb-4 Nota. Tomado de Wikipedia  https://es.wikipedia.org/w/index.php?title=Oferta_y_demanda&oldid=165500551
                 
-      .col-lg-6.order-lg-1.mb-3.mb-lg-0
+      .col-lg-6.order-1.mb-3.mb-lg-0
         .bg-color-10.p-4.mb-3(data-aos="fade-left")
           p.mb-0 La oferta y la demanda son los pilares fundamentales que determinan el funcionamiento de los mercados. A través de su interacción, se establecen los precios y las cantidades de bienes y servicios que se intercambian en la economía. El equilibrio entre la oferta y la demanda, es clave para garantizar la estabilidad en los mercados y para evitar fenómenos como el exceso de producción o la escasez de productos (Hernández Pérez & Hernández Pérez, 2014).
         figure

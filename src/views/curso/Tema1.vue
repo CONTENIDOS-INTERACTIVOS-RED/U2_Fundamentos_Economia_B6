@@ -109,7 +109,7 @@
                 figure
                   img(src='@/assets/curso/tema1/11.svg', alt='', style="max-width: 1106px;").mx-auto
     
-              .bg-color-white.box-shadow.p-3(x="7.2%" y="65.5%" numero="+")
+              .bg-color-white.box-shadow.p-3(x="7.2%" y="65.5%" numero="+").pst
                 h5 Control de precios
                 p Uno de los métodos más comunes es el control de precios, aplicado en sectores estratégicos como la energía y el transporte público. En estos casos, el Estado establece tarifas máximas para evitar abusos y garantizar la accesibilidad de los consumidores.
     
@@ -148,7 +148,7 @@
     
     p.mb-4 El oligopolio es una estructura de mercado en la que un pequeño grupo de empresas domina la oferta de un bien o servicio, generando una interdependencia estratégica entre ellas.
 
-    .bg-full-width.bg-color-3.mb-lg-5
+    .bg-full-width.bg-color-3.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-8.mb-3.mb-lg-0
